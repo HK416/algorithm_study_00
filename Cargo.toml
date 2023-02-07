@@ -1,0 +1,11 @@
+[package]
+name = "algorithm_study_00"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[[example]]
+name = "algorithm_ex_0"
+
+[[example]]
+name = "algorithm_ex_1"
